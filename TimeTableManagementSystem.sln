@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1401
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTableManagementSystem", "TimeTableManagementSystem\TimeTableManagementSystem.csproj", "{DE431B6B-B503-48F2-9A23-9AA3FD3A787C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timetable Management System", "..\..\..\..\Desktop\Timetable Management System\Timetable Management System\Timetable Management System.csproj", "{D47814DE-20CF-4C8A-A3E0-125C25A0257E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DE431B6B-B503-48F2-9A23-9AA3FD3A787C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE431B6B-B503-48F2-9A23-9AA3FD3A787C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE431B6B-B503-48F2-9A23-9AA3FD3A787C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47814DE-20CF-4C8A-A3E0-125C25A0257E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47814DE-20CF-4C8A-A3E0-125C25A0257E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47814DE-20CF-4C8A-A3E0-125C25A0257E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47814DE-20CF-4C8A-A3E0-125C25A0257E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
